@@ -1,4 +1,4 @@
-### Oioi! Prazer em lhe ter aqui ✌️
+### Oioi! Meu nome é Duda, prazer em lhe ter aqui ✌🏾
 
   <div align="center">
     <a href="https://github.com/MariaEduardaBernardo">

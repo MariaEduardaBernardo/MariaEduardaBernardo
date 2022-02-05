@@ -8,8 +8,7 @@
   ##
   
  <div>
-   <a href= ""><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <a href="https://www.linkedin.com/in/maria-eduarda-3a5603141/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       <img align="right" height="160" style="border-radius:50px;" src="https://media.discordapp.net/attachments/937718324811423824/938561531283648563/download20220100191537.png?width=422&height=422">
  </div>
  

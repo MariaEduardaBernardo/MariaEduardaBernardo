@@ -14,8 +14,9 @@
  </div>
  
 <div>
+  <!--
   <h3> . 🏃🏽 Atualmente a procura de estagio</h3>
-  <h3> . 🌱 Cursando informatica </h3>
+  <h3> . 🌱 Cursando informatica </h3>-->
 
    ![Snake animation](https://github.com/MariaEduardaBernardo/MariaEduardaBernardo/blob/output/github-contribution-grid-snake.svg)
  

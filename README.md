@@ -1,4 +1,7 @@
-### Oioi! Meu nome é Duda, prazer em lhe ter aqui ✌🏾
+### Oioi
+Meu nome é Maria Eduarda, mais pode me chamar de Duda, tenho 17 anos e atualmente estou estudando no IFSP no curso de informatica. 
+##
+
 
   <div align="center">
     <a href="https://github.com/MariaEduardaBernardo">

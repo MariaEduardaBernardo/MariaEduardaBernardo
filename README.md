@@ -1,5 +1,5 @@
-### Oioi
-Meu nome é Maria Eduarda, mais pode me chamar de Duda, tenho 17 anos e atualmente estou estudando no IFSP no curso de informatica. 
+### Oioi meu nome é Maria Eduarda, mais pode me chamar de Duda, tenho 17 anos. 
+.💻 No momento estou cursando técnico em informática integrado com o ensino médio no IFSP.
 ##
 
 

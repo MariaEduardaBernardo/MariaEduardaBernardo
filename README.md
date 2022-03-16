@@ -17,9 +17,8 @@ Meu nome é Maria Eduarda, mais pode me chamar de Duda, tenho 17 anos e atualmen
  </div>
  
 <div>
-  <!--
-  <h3> . 🏃🏽 Atualmente a procura de estagio</h3>
-  <h3> . 🌱 Cursando informatica </h3>-->
+  <h3> . 🌱 Cursando informatica </h3>
+  <h3> . 🏃🏽 Atualmente a procura de estagio para aprimorar os conhecimentos e aprender cada vez mais</h3>
 
    ![Snake animation](https://github.com/MariaEduardaBernardo/MariaEduardaBernardo/blob/output/github-contribution-grid-snake.svg)
  

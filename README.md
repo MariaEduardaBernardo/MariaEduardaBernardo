@@ -2,7 +2,7 @@
 
   <h4> . 💻 No momento estou cursando técnico em informática integrado com o ensino médio no IFSP </h4>
   <h4> . 🏃🏽 Atualmente a procura de estagio para aprimorar os conhecimentos e aprender cada vez mais</h4>
-
+##
 
   <div align="center">
     <a href="https://github.com/MariaEduardaBernardo">

@@ -13,8 +13,12 @@
   ##
   
  <div>
-  <a href="https://www.linkedin.com/in/maria-eduarda-3a5603141/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      <img align="right" height="160" style="border-radius:50px;" src="https://i.picasion.com/pic92/81764e605184900be615ece3e484b487.gif">
+  <a href="https://www.linkedin.com/in/maria-eduarda-3a5603141/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img align="right" height="160" style="border-radius:50px;" src="https://i.picasion.com/pic92/81764e605184900be615ece3e484b487.gif">
+    
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDktTqZfBGqqHxwbPSnlDLZxvHrbvJdjdXjBsxSqhtTvrmDzHVSRllLBvGgKRRksxJCKg">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </div>
  
 <div>

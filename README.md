@@ -1,9 +1,12 @@
-### Oioi, meu nome é Maria Eduarda, mais pode me chamar de Duda.
+  <div>
+    <h3> . 👾 Meu nome é Maria Eduarda mais pode me chamar de Duda. </h3>
+    <h3> . 🗓️ Tenho 17 anos.</h3>
+    <h3> . 💻 No momento estou cursando técnico em informática integrado com o ensino médio no IFSP.</h3>
+    <h3> . 🏃🏽 Atualmente a procura de estagio para aprimorar os conhecimentos e aprender cada vez mais.</h3>
+  </div>
+
 ##
-  <h4> . 🗓️ Tenho 17 anos.</h4>
-  <h4> . 💻 No momento estou cursando técnico em informática integrado com o ensino médio no IFSP.</h4>
-  <h4> . 🏃🏽 Atualmente a procura de estagio para aprimorar os conhecimentos e aprender cada vez mais.</h4>
-  
+
   <div>
     <a href="https://github.com/MariaEduardaBernardo">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaBernardo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>

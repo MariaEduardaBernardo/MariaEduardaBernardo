@@ -3,7 +3,7 @@
   <h4> . 💻 No momento estou cursando técnico em informática integrado com o ensino médio no IFSP.</h4>
   <h4> . 🏃🏽 Atualmente a procura de estagio para aprimorar os conhecimentos e aprender cada vez mais.</h4>
 
-  <div align="center">
+  <div>
     <a href="https://github.com/MariaEduardaBernardo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaBernardo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaBernardo&layout=compact&langs_count=7&theme=cobalt"/>

@@ -1,7 +1,7 @@
   <div>
     <h3> . 👾 Meu nome é Maria Eduarda mais pode me chamar de Duda. </h3>
     <h3> . 🗓️ Tenho 17 anos.</h3>
-    <h3> . 💻 No momento estou cursando técnico em informática integrado com o ensino médio no IFSP.</h3>
+    <h3> . 💻 Cursando técnico em informática integrado com o ensino médio no IFSP 3/4.</h3>
     <h3> . 🏃🏽 Atualmente a procura de estagio para aprimorar os conhecimentos e aprender cada vez mais.</h3>
   </div>
 
